@@ -59,7 +59,7 @@ const Pdf = forwardRef((props, ref) => {
                 <td className="shop-info">
                   <div className="shop-name">
                     <span style={{ fontWeight: "bold" }}>
-                    Valley Culture Exports LLP
+                      Valley Culture Exports LLP
                     </span>
                   </div>
                   <div className="shop-name">
@@ -69,7 +69,8 @@ const Pdf = forwardRef((props, ref) => {
                   </div>
 
                   <div className="shop-address">
-                  Lane C-15, Turner Road, Clement Town, Dehradun- 248001, Uttarakhand
+                    Lane C-15, Turner Road, Clement Town, Dehradun- 248001,
+                    Uttarakhand
                   </div>
 
                   <div className="shop-address">
@@ -288,7 +289,7 @@ const Pdf = forwardRef((props, ref) => {
               marginTop: "50px",
             }}
           >
-            <div>For Bharat Bhaishajya Shala Pvt. Ltd.</div>
+            <div>For Valley Culture Exports LLP</div>
             <img src={Sign} alt="Sign" height="100" width="100" />
             <div>Authorised Signature</div>
           </div>
